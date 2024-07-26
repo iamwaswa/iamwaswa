@@ -1,3 +1,5 @@
+## Introduction
+
 👋🏾 Hi there iamwaswa. My name is Waswa Olunga.
 
 My story is one with many twists and turns but ultimately left me somewhere I belong: software development.
@@ -12,17 +14,13 @@ That brings me to today, where my love for code is greater than ever. I find gre
 
 My story is always a reminder of the gift that I received when I first got into programming. I can't wait to create even more amazing things with software!
 
-<!--
-**iamwaswa/iamwaswa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technical Skills 🛠️
+Languages: TypeScript, JavaScript, CSS, HTML, Java, NoSQL, SQL
+Frameworks & Libraries: React, Next.js, Node.js, Svelte.js, Vue.js
+Tools & Platforms: Git, GitHub, Gitlab, Docker, Vercel
 
-Here are some ideas to get you started:
+## Connect with Me 📬
+📫 [Email](mailto:olungaw@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/iamwaswa)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m looking forward to working with you to create something incredible. Let’s connect! 🌍
