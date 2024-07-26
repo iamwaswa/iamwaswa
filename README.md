@@ -15,12 +15,12 @@ That brings me to today, where my love for code is greater than ever. I find gre
 My story is always a reminder of the gift that I received when I first got into programming. I can't wait to create even more amazing things with software!
 
 ## Technical Skills 🛠️
-Languages: TypeScript, JavaScript, CSS, HTML, Java, NoSQL, SQL
-Frameworks & Libraries: React, Next.js, Node.js, Svelte.js, Vue.js
-Tools & Platforms: Git, GitHub, Gitlab, Docker, Vercel
+- Languages: TypeScript, JavaScript, CSS, HTML, Java, NoSQL, SQL
+- Frameworks & Libraries: React, Next.js, Node.js, Svelte.js, Vue.js
+- Tools & Platforms: Git, GitHub, Gitlab, Docker, Vercel
 
 ## Connect with Me 📬
-📫 [Email](mailto:olungaw@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/iamwaswa)
+- 📫 [Email](mailto:olungaw@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/iamwaswa)
 
 I’m looking forward to working with you to create something incredible. Let’s connect! 🌍
